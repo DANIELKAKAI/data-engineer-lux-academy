@@ -3,4 +3,4 @@ env
 .ipynb_checkpoints
 .idea
 Week 5 Assignment/training.1600000.processed.noemoticon.csv
-Week 6 Assignment/__pycache__
+Week 6 Assignment - FastAPI Application/__pycache__
